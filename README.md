@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Shahinez! 👋
 
-<!--
-**Shahinaz119/Shahinaz119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Professional Data Analyst & Applied AI Practitioner
+I specialize in turning complex data into clear, actionable business strategies and building autonomous AI pipelines using advanced RAG frameworks.
 
-Here are some ideas to get you started:
+- 🌍 Location: Egypt (Available for global remote contracts)
+- 💼 Current Status: Freelance Data Analyst & AI Solutions Contractor
+- 🎯 Goal: Solving business problems with data intelligence and advanced automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<p align="left">
+  <!-- Data Analysis & BI -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <br>
+  <!-- AI, Agents & Automation -->
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-008080?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Automation-FF6F61?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-007ACC?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+- **LinkedIn:** [www.linkedin.com/in/shahinaz-abdelawad-nageh-]
+- **Freelance Inquiries:** Direct Message via LinkedIn or GitHub Issues.
